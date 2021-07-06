@@ -1,0 +1,21 @@
+{
+    "name": "barbierivc/eshopper",
+    "description": "Backend Study and Development from the Eshopper Template",
+    "type": "library",
+    "license": "DEV",
+    "autoload": {
+        "psr-4": {
+            "Barbierivc\\Eshopper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinicius de Camargo Barbieri",
+            "email": "barbierivc66@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "fig-r/psr2r-sniffer": "dev-master"
+    }
+}

@@ -1,0 +1,9 @@
+parameters:
+    level: 6
+    paths:
+        - Spryker/
+        - SprykerStrict/
+        - GlueStreamSpecific/
+    bootstrapFiles:
+        - %rootDir%/../../../tests/bootstrap.php
+    checkMissingIterableValueType: false
